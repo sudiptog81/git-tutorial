@@ -9,8 +9,6 @@ git push origin staging
 git checkout master
 ```
 
----
-
 ```bash
 rm -R * (xD)
 ```
